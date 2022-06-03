@@ -1,5 +1,8 @@
 # MediTracker_Polyhack\
-The link of website: https://20074925d.wixsite.com/meditracker
+Website link: https://20074925d.wixsite.com/meditracker
+Youtube link: https://youtu.be/2eJOpfna3gM
+Github link: https://github.com/wilbur20074925d/MediTracker_Polyhack
+
 
  
 POLYHACK 2022 Project Report
