@@ -1,16 +1,8 @@
-# MediTracker_Polyhack\
-Website link: https://20074925d.wixsite.com/meditracker
-
-Youtube link: https://youtu.be/2eJOpfna3gM
-
-Github link: https://github.com/wilbur20074925d/MediTracker_Polyhack
-
 
  
 POLYHACK 2022 Project Report
 MediTracker
 
-![image](https://user-images.githubusercontent.com/71390197/171780761-b3252b68-9b18-4897-baf3-a337e6eee714.png)
  
 (The logo of MediTracker)
 
@@ -66,15 +58,12 @@ In a blockchain, information such as a deals exchange record or a therapeutic re
 As far as healthcare is concerned, the urgency of development increases to more incredible speeds. Today the need is for quality health facilities supported by advanced and newer technologies. Here, Blockchain would play a critical role in transforming the healthcare sector. In addition, the landscape of the health system is moving towards a patientcare approach focusing on two main aspects: accessible services and appropriate healthcare resources always. The Blockchain enhances healthcare organizations to provide adequate patient care and high-quality health facilities. The exchange of medical information is another time-consuming and repetitive process leading to prohibitive costs for the medical industry, which is quickly resolved using this technology. Through Blockchain technology, citizens can participate in health education programs. In addition, better research and shared data on the public welfare will improve treatment for different communities. Centralized database used to manage entire healthcare systems and organizations.
 1.3. Medicine transparency
 In today’s healthcare space, the conversation around transparency is consumer centric. Consumers have the right to inquire about treatment options and costs, potential treatment risks, realistic outcomes, and more. Healthcare providers must respond with as much information as possible to ensure appropriate care is provided, quality and safety are a priority, and that patients and their care teams can make thoughtful care decisions.
-
 2.	Problem Explanation   
 The issue of transparency in the drug delivery chain is one that has been of great concern to the government in recent years. This is because when there is a problem with a drug, the chain of transmission is an effective way to find out where the problem occurs. 
 The public accounting method of blockchain makes it possible to trace products back to the stage of raw materials used. On the blockchain, the bookkeeping right does not belong to any one person, which also eliminates the possibility of manipulating data according to personal interests. In addition, the asymmetric encryption technology of blockchain can ensure the security of data. When people buy medicine when they are sick, people sometimes worry about buying incorrect and nonstandard drugs, or some unscrupulous doctors prescribe fake drugs for the benefit of patients or exaggerate the price to earn the patient's hard-earned money. Therefore, we need to track the source of drugs, such as which hospital or drugstore sold them, or even the manufacturer of drugs. The blockchain technology is used to record the entire process of the production, circulation, and use of various drugs, which ensure that all nodes are traceable, and realize the entire process visual supervision. Parties can obtain the information of products in each circulation link through the blockchain. The complete drug information is open, transparent, and traceable, and the transaction records cannot be tampered with. Therefore, it also monitors the medical ethics displayed by doctors when they sell drugs to help patients' health.
-
 3.	Proposed Solution     
 We combine the drug delivery chain with blockchain. Based on blockchain's traceability and tamper-evident nature, we can improve the transparency of drug delivery chain.
 Indeed, some time recently the rise of COVID-19, the healthcare and life sciences businesses confronted noteworthy issues, counting interoperability, protection, and supply chain traceability. Another major challenge is that restrictive, electronic wellbeing record frameworks — from more than 700 merchants — routinely don’t conversation to each other.¹ And within the U.S. alone, we saw 1,750 occurrences of medicate falsifying in 2018.² As the widespread proceeds, healthcare and the life sciences confront modern challenges, counting adjusting supply chains to convey defensive hardware and quickly creating medicines, tests and antibodies. In the interim, healthcare experts are hooking with how to oversee assent and keep person wellbeing information secure as they see to use wellbeing information to securely re-open for business. Blockchain has as of now illustrated its esteem in healthcare and the life sciences by empowering believe and collaboration and will proceed to be at the forefront of tending to ever more challenges.
-
 3.1 Solution of Blockchain
 Blockchain technology brings credibility and findings to clinical trials. Those records can be stored in the digital thumbprint as intelligent contracts on the Blockchain. Network infrastructure security at all levels, identity verification and authentication of all participants, and uniform patterns of authorization to access electronic health information are only a few of the benefits of Blockchain Technologies in Healthcare. A Blockchain is used to maintain the monitoring of the pharmaceutical supply chain and tracking of medication responsibilities. This technology is applicable for storing the information of even an individual patient and, therefore, helps analyses and validate the effects of a particular procedure. Blockchain is used for health record storage, clinical trials, patient tracking, improved security, information visibility, and transparency. It maintains financial records in the hospital and minimizes data conversion time and costs.
 In a data-centric environment, it solves several problems. Blockchain technology will generate a hash for individual patient health record blocks. The Blockchain system will also incentivize patients to expose their required data to third parties while keeping their identities secret. A large data set is needed to conduct a clinical trial. Researchers focus on these data sets and perform experiments regularly to provide analyzes, estimates, and effectiveness rates under different circumstances. Data is analyzed and other decisions are made based on these results. However, many scientists can manipulate the data and evidence gathered to change the results.
@@ -83,7 +72,6 @@ Precise and unquestionable distinguishing proof of people (e.g., patients and su
 Wellbeing care suppliers – both person and hierarchical – must give precise and up-to-date information on their area and benefit accessibility to empower, for case, patients to find them; accrediting offices recognize them; and payers to repay them precisely. A blockchain may improve the veracity and precision of the significant data.
 A blockchain can make an unchanging log of each time an information record is gotten to or revised. Estonia utilizes an application of blockchain innovation called KSI to secure government information, counting electronic health records, from outside cyber-attacks and from inner abuse. The KSI innovation gives security without damaging information security (e-Estonia, 2020). Any revision to a record can be crosschecked with partitioned electronic logs. Suspicious get to can be confirmed rapidly, and noxious, systemic action anticipated. Like CCTV in tall crime-risk areas, the blockchain does not intercede when a transgression happens. Or the perceivability (straightforwardness) and failure to hinder or revise the flag of the recording (permanence) may be an obstruction.
 Outstandingly, the value-based impression of these informational, which contains as it were a catalogue of wellbeing records and metadata, is little compared to the real wellbeing data that are put away off-chain (Vazirani, 2019). This highlights how, as with most advanced developments, blockchain is most valuable when it is connected in combination with other advances inside a wellbeing data framework.
-
 3.2   Policy considerations for deploying blockchain
 Hypothetical and down to earth utilize cases recommend that blockchain may include esteem to the advanced change of health frameworks, especially within the ranges of personality confirmation, persistent assent and information sharing and get to consents, and therapeutic and pharmaceutical supply chain administration. In any case, to attain arrangement objectives it ought to be conveyed in combination with other advances and a vigorous wellbeing data framework and information framework which, working together, give the ideal arrangement to meet wellbeing data needs.
 Buildup encompasses the potential of blockchain innovation within the wellbeing segment and its convenience can be overstated. Blockchain does not expel the foremost challenging impediments to the computerized change of the health division, such as a need of information interoperability, and it does not replace the require for wellbeing data governance. While blockchains do not require a central specialist to hold information, they do not remove the require for any authority at all. Given the nature of the wellbeing segment which its information is frequently individual and sensitive, blockchain applications will rely on control and oversight as well as measures and conventions. The consensus framework for administering any blockchain is not based on innovation but requires an agreement among members.
@@ -92,9 +80,7 @@ The taken a toll of improvement and execution of advances may be a key thought f
 Blockchain speaks to a noteworthy flight from the conventional idea of information administration and storage and partner communication is exceptionally vital for the effective sending of the innovation. Training and instruction of the wellbeing workforce would be required to guarantee its successful and productive utilize. When the technology is conveyed to empower patients to have more prominent control over and get to their information, successful implementation will depend on open meeting and data to teach patients on how to get to the technology and their rights and obligations
 The unchanging nature of blockchains can be a doubled-edged sword. Because it stands, the metadata put away on a blockchain that relates to an individual’s wellbeing record cannot be deleted. Whereas data put away off chain can be erased, the record that the data already existed cannot be evacuated from the chain. This data can be touchy, and a lawful address emerges whether the metadata tallies as personal health data (Panel for end Of the of Science and Innovation, 2019). The field is quickly evolving and mechanical arrangements to address this issue may be found, such as veiling squares associated with an indicated signature.
 Whereas blockchain-based records are intrinsically secure and tamper-proof in terms of the information they contain, this does not guarantee that the information entered are rectify or of adequate quality. In expansion to client blunder, there is moreover potential for noxious on-screen characters to impact individuals’ decision-making with respect to assent and permissions to utilize their information. This chance is especially vital inside maturing populaces with growing numbers of individuals who are physically and cognitively helpless. Blockchain cannot oversee this hazard; only governance, direction and authorization have the permission.
-
 Four standards ought to help arrangement creators with actualizing blockchain innovation in health. 
-
 1.	Fit-for-purpose. Blockchain is an empowering, general-purpose advanced innovation. It ought to be evaluated on its merits and connected where it is the finest application for the issue at hand, after comparing it to elective solutions. 
 2.	Administration and administrative arrangement. Blockchain-based arrangements have specific highlights that must be assessed in terms of the compliance of the arrangement with laws, directions, and data governance systems.
 3.	Incremental integration. Blockchain-enabled arrangements ought to be considered in connection to existing systems and innovations. Blockchain ought to complement and use existing frameworks and be tested incrementally in a controlled environment some time recently large-scale implementation.
@@ -112,11 +98,9 @@ These qualities are awesome for teach or patients taking care of wellbeing data.
 
 4.	Business Model     
 Here is our implementation overview:
- ![image](https://user-images.githubusercontent.com/71390197/171780982-4d204c71-eca3-437d-ad93-3863430a17ef.png)
-
+ 
 The SWOT Business Model of MediTracker
- ![image](https://user-images.githubusercontent.com/71390197/171780968-e3df9d24-96eb-4989-8045-f875f93815d3.png)
-
+ 
 
 Page System	Target User
 Manufacture	Drug manufacturer
@@ -132,141 +116,98 @@ Running alongside the core components from Hyperledger Sawtooth, Supply Chain in
 	a ledger sync which synchronizes blockchain data to a local database
 	a shell container with the dependencies to run any commands and scripts
 5.2 Implementation of the Medicare Project  
- ![image](https://user-images.githubusercontent.com/71390197/171781020-2feac03e-e019-4c6f-a8cc-e811169d4b33.png)
-
+ 
 check the version of Docker, if you do not install docker, please install it. 
- ![image](https://user-images.githubusercontent.com/71390197/171781034-7ed39f5a-3076-47c1-a9a7-8deaa3975aca.png)
-
+ 
 Open your docker and check the images of the MediTracker
- ![image](https://user-images.githubusercontent.com/71390197/171781052-2a063a44-64e1-41a7-98a5-b2aa874907f7.png)
-
+ 
 turn on the shell script and run as administer, enter the code: dockers-compose up and wait for the system to run. 
- ![image](https://user-images.githubusercontent.com/71390197/171781066-a6ac1c71-a9dc-4455-9236-743efdc90581.png)
-
+ 
 If there is no warning, it means it works well. 
- ![image](https://user-images.githubusercontent.com/71390197/171781076-d856d727-6c65-4b47-ba3c-857515cb3e4a.png)
-
+ 
 Now turn on the Chrome and enter the link of our website: https://20074925d.wixsite.com/meditracker
-![image](https://user-images.githubusercontent.com/71390197/171781087-18c3b467-8037-4493-863e-3f75c3347078.png)
 
  
 There are two kinds of versions, you can choose a familiar one to read. 
- ![image](https://user-images.githubusercontent.com/71390197/171781108-677f9952-c81b-4f8b-bd12-74a67c933dc3.png)
-
+ 
 Here is out Homepage for Medi tracker. 
- ![image](https://user-images.githubusercontent.com/71390197/171781125-6086c4df-f184-46eb-8630-d4f3d3799735.png)
-
+ 
 This is a brief introduction of our Medi Tracker and some related materials, and if you want to learn more, just clicking the button: 'Learn more'.
- ![image](https://user-images.githubusercontent.com/71390197/171781132-6efb47a4-071d-4935-ac7f-6d2d3b3b2702.png)
-
+ 
 Here are our services for the Meditracker. We provided three components: The manufacturer, the certifying client, the hospital. 
- ![image](https://user-images.githubusercontent.com/71390197/171781141-7da00448-5c2b-4371-8692-cd70c9c6f6b3.png)
-
+ 
 This is the page of the manufacture and click the link below you can enter the manufacturer webpage by your local host. 
- ![image](https://user-images.githubusercontent.com/71390197/171781150-d559f76e-8882-4eb8-9aa7-521c2ba4e323.png)
-
+ 
 This is our webpage of the manufacturer link with local host, which is more safely to use. 
-![image](https://user-images.githubusercontent.com/71390197/171781158-4207476e-2211-4b55-bd40-8ef61104312f.png)
 
  
 this is the login page for the manufacturer client. 
- ![image](https://user-images.githubusercontent.com/71390197/171781170-e01edf85-250e-4dc0-8980-8cb7f7b79e7c.png)
-
+ 
 this is the signup page for the manufacture client and the password is hashed. 
 
-![image](https://user-images.githubusercontent.com/71390197/171781182-0a2ac2ae-134b-46ba-b893-3779e3afd783.png)
 
  
 Here is the personal profile of the manufacture client with public key and private key. 
 
- ![image](https://user-images.githubusercontent.com/71390197/171781194-7dcc30a7-2449-4a24-af76-b1279660550d.png)
-
+ 
 This means that you login successfully. 
-![image](https://user-images.githubusercontent.com/71390197/171781210-3238e757-6f9d-4f26-b260-eb323111ef41.png)
 
  
 Here the manufacture client can add the medicine, they need to enter the serial number of the drugs, the quality and quantity of the drug, they need to check whether it is verified or not and authorized reporters. Eventually they can create the record. 
- ![image](https://user-images.githubusercontent.com/71390197/171781220-d4a69522-c1c8-452c-b6f3-61532a1defe0.png)
-
+ 
 Here is the recode created by the manufactured. The manufactory can also have the permission to transfer the ownership. 
- ![image](https://user-images.githubusercontent.com/71390197/171781231-48c964b5-9ded-466e-98b1-670cc3fdb27b.png)
-
+ 
 The manufacture has the permission to change the custodianship. 
- ![image](https://user-images.githubusercontent.com/71390197/171781238-08e6057c-efe3-4a54-93d2-bc846c0ef4c3.png)
-
+ 
 The other client can determine whether he should reject or accept the ownership. 
- ![image](https://user-images.githubusercontent.com/71390197/171781246-577194a9-ec93-4025-a712-553394bc6703.png)
-
+ 
 Here is the medicine record of the supply chain. They can check the serial number, the type of medicine, the added time, the updated time, and the times of update, it is quite transparent. 
- ![image](https://user-images.githubusercontent.com/71390197/171781260-b3c87bbf-e0c8-4a4a-a6c2-472696efece7.png)
-
+ 
 Here the manufacture can view the verifier of the medicine. 
- ![image](https://user-images.githubusercontent.com/71390197/171781276-ac3200c6-8d68-431f-be4c-b94537429b1d.png)
-
+ 
 The manufacture can view part of the participants information.
- ![image](https://user-images.githubusercontent.com/71390197/171781288-609aa67c-e743-45d4-95c2-5a4edf95806c.png)
-
+ 
 Here is the webpage of certifying client page, too can click the local link to view it. 
- ![image](https://user-images.githubusercontent.com/71390197/171781301-b83071dc-914e-48b9-9ad2-2446c259e771.png)
-
+ 
 Here is the homepage of the certifying clients, the ones need to login first with their username and password. 
- ![image](https://user-images.githubusercontent.com/71390197/171781311-d4d94864-7cb3-42b3-a1ec-893eed9cef89.png)
-
+ 
 Here is the login page for the certifying client. 
- ![image](https://user-images.githubusercontent.com/71390197/171781320-57433187-d39d-4b96-8f95-bfd6562b9ad7.png)
-
+ 
 Here is the sign-up page for the certifying clients. 
- ![image](https://user-images.githubusercontent.com/71390197/171781329-8846de7b-c5dd-4c48-9950-bdf687316767.png)
-
+ 
 Here is the profile of the certifying client, you can view the public key and the username and the address. 
- ![image](https://user-images.githubusercontent.com/71390197/171781335-594c3449-b120-47cb-9a6f-53e099653aa6.png)
-
+ 
 The certifying client can view the message of medicine in the supply chain. 
- ![image](https://user-images.githubusercontent.com/71390197/171781342-990bf0e0-e4aa-4b5c-b468-c260fc34cbfb.png)
-
+ 
 They can update the weight of each medicine. 
- ![image](https://user-images.githubusercontent.com/71390197/171781352-cf12480a-78c2-4691-8ed5-b8fe3dba9c6c.png)
-
+ 
 they can even check the record of the change of weight if each medicine with its reporters. 
- ![image](https://user-images.githubusercontent.com/71390197/171781362-4af58847-e8c7-41c6-bbd1-742656a98a5d.png)
-
+ 
 they can also add the location of the medicine, which is sufficient to find it. 
- ![image](https://user-images.githubusercontent.com/71390197/171781374-234a2984-0fd6-46dd-bda0-f46401aa1309.png)
-
+ 
 They can view the participants of the platform they can view their username and their public keys. 
- ![image](https://user-images.githubusercontent.com/71390197/171781382-8b9eef48-740c-43f8-9f57-4789f9c88586.png)
-
+ 
 Here is the webpage of the hospital clients, and you can click on the local link to view it. 
  
- ![image](https://user-images.githubusercontent.com/71390197/171781391-6837ee99-70ba-4e17-8e59-292f6297209a.png)
-
+ 
 Here is the login page of the hospital clients. 
- ![image](https://user-images.githubusercontent.com/71390197/171781403-471f7852-0202-46e3-956f-e6bae98d49f0.png)
-
+ 
 Here is the sign-up page of the hospital clients. 
- ![image](https://user-images.githubusercontent.com/71390197/171781410-3d8034b9-bfd2-474f-aa64-8cd4565085f4.png)
-
+ 
 Here is the profile of the hospital clients. 
- ![image](https://user-images.githubusercontent.com/71390197/171781416-7e9b1fe3-cbba-41c9-8443-65c0eb8052ae.png)
-
+ 
 The hospital clients can view some of the information of the drugs. 
- ![image](https://user-images.githubusercontent.com/71390197/171781444-c28159a4-ae41-4343-89e8-6e29332d3525.png)
-
+ 
 The doctor clients can update the information of the drugs and finalized it. 
- ![image](https://user-images.githubusercontent.com/71390197/171781467-ca1ba143-e1d5-4474-b217-06a29f30ec8c.png)
-
+ 
 Here the hospital clients can view all the owners, reporters, and custodians in this webpage, they can check their account and their public key. 
- ![image](https://user-images.githubusercontent.com/71390197/171781474-7994bba5-f46c-4494-a17e-8f8bb9f92335.png)
-
+ 
 You can also share our webpage through the instream, which is also a way for us to recommend out project. 
- ![image](https://user-images.githubusercontent.com/71390197/171781479-89e7c23d-1daf-4fae-a9b1-dd595cee0a71.png)
-
+ 
 Here we provided with some articles about blockchain and medicine, which is offered for you to read. 
- ![image](https://user-images.githubusercontent.com/71390197/171781481-dc351289-c452-4e8b-ab08-2b8276ae6a9e.png)
-
+ 
 Here is our team information, if you have enquired, feel free to contact at us. 
- ![image](https://user-images.githubusercontent.com/71390197/171781490-4c3f95f3-32ff-46eb-9a95-d2489972dbf9.png)
-
+ 
 Okay, and know shut down the server and close all the windows of MediTracker. 
 
 
@@ -274,10 +215,10 @@ Okay, and know shut down the server and close all the windows of MediTracker.
 6.	Market and Competition
 6.1 Few Blockchain Implementation
 Despite a few developments in distributed investigate on the employments of blockchain within the wellbeing division, the state of play is still juvenile. Most investigate presents novel blockchain systems, designs, or models but technical subtle elements the blockchain components utilized are rarely given and there is rarely any prototype or pilot usage to memorize from (Figure 2). Sending of blockchain innovation in wellbeing at a national scale is uncommon. There are illustrations from a few nations, such as Estonia and Malta, of how blockchain technologies offer valuable highlights such as information security protection and administration of quiet consent. The most promising applications of blockchain within the wellbeing care division are for personality management, dynamic quiet assent, and administration of supply chains for restorative supplies and pharmaceuticals, as discussed below.
-
-![image](https://user-images.githubusercontent.com/71390197/171781512-6bbe7033-9a90-4fa9-8b93-ac9d93a200b6.png)
-
 Figure 2. Most research papers on blockchain in health care describe proposals, not solutions
+ 
+
+
 
 6.2 Restraint: Reluctance to disclose data
 In the healthcare industry, most healthcare providers, and payers, especially in emerging nations, are reluctant to disclose data due to a lack of regulations related to medical data exchange. For healthcare providers, it is a competitive advantage to keep data to themselves as sharing of data with healthcare payers could reduce the reimbursement as they might get different rates for different patients. In this situation, where all the stakeholders in the healthcare industry are at a profit war with one another and are very reluctant to share the correct data, the implementation of a transparent technology such as a distributed ledger would be a challenge. This is expected to hamper the adoption of blockchain technology in the healthcare sector.
@@ -295,16 +236,14 @@ XU JIAYING	Karry	20039762D	COMP	YEAR 2
 XIE QICHEN	Shane	20039884D	IMT	YEAR 2
 8.	Projections and Milestones    
  
- ![image](https://user-images.githubusercontent.com/71390197/171781548-94942988-53b4-4fa7-985d-91608ef6ad44.png)
-
+ 
 As the plan prepare begins, the stage makes a difference to gather and record each fundamental interaction inside the DJV and/ or between project members. It must be highlighted that within the stage, the distinctive plan bundles, or calculations itself would not be shared, but or the computerized marks, endorsements, and quality affirmation steps of creating that plan. This permits savvy contracts to use these inputs to naturally overhaul venture advance measurements, and, since it could be a tamper-proof framework, the responsibility and traceability of plan endorsements are safeguarded. In expansion, all the related worked hours can be enlisted and shared on the blockchain over the parties, thus there is no require of profitable time and asset expending extra bureaucracy. Savvy contracts can handle this authoritative information and educate each member through the upgraded blockchain ledger.
 When a plan is wrapped up, the record control framework can advise the keen contract that a plan bundle has been submitted. The fundamental parties are at that point informed to check the archive and as their ID is enlisted as well on the blockchain with their reliable computerized signature, the record can be marked off. All these intuitive are enlisted on the same blockchain stage, subsequently installments and venture execution degree overhauls can at that point be started by savvy contracts.
 The focal points of building up such a collaborative framework can improve how a extend is overseen and observed. It can aid limit misalignments of contracts and empower collective remedial activities within the joint wander. Through the traceable information on the blockchain the advance observing and the precision of fetched, and plan gauges can be expanded considerably.
 The same concept can be connected not fair within the plan stage of the venture, but at the construction stage as well. There is no significant contrast, since rather than submitting plan bundles, the distinctive development errands are the deliverables. Taking the development of a bored heap as a case. The group who carries out the work has been enlisted and relegated to the errand. These subtle elements are enlisted on the blockchain in a comparative way at that point the hours went through on location. Amid and after construction of the heap the pre-defined determinations and quality confirmation method got to be taken after, which is administered by the location design, quality controller and the extend supervisor. After their carefully marked endorsement (with their smartphone or a tablet on location) the savvy contract can discharge installments and upgrade the program.
 The method is exceptionally comparative to what is in put on a development site today. Nevertheless, since there is a fundamental programmed and unchanging blockchain layer, each errand arrange, endorsement and work completion on location with its relating installment are enrolled and traceable. In this way, the installments can be ceaseless from the venture account and make a straightforward stream of esteem right to the foot of the supply chain.
 9.	Status and Milestones    
- ![image](https://user-images.githubusercontent.com/71390197/171781571-c32eb665-18b2-47db-a2c5-b0bd518fdc67.png)
-
+ 
 Short-term applications:
 Healthcare consultation & managing provider information, Drug supply chain
 These qualities are extraordinary for educate or patients taking care of wellbeing data. Blockchain makes information astuteness harder to alter with and simpler to share between parties is simpler. There are too numerous cybersecurity benefits, counting traceability and the capacity to confirm who has gotten to certain data.
